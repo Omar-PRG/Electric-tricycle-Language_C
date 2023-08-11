@@ -1,3 +1,6 @@
 # Electric-tricycle
-#include<stdio.h>
-printf("this is a c project");
+
+
+-----------------------------------------------------------------
+
+printf("this is a C project");
